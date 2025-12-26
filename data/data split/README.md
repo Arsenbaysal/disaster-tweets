@@ -1,2 +1,2 @@
 Please create and put 3 csv files here:
-80 percent is training data, 10 percent is test data, 10 percent is validation data
+80 percent of the cleaned data as training data, 10 percent of it as test data, 10 percent as validation data
